@@ -1,0 +1,6 @@
+module Pods_nurgunsapp28 {
+  umbrella header "Pods-nurgunsapp28-umbrella.h"
+
+  export *
+  module * { export * }
+}

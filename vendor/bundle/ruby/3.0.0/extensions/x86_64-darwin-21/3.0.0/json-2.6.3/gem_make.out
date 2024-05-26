@@ -1,0 +1,13 @@
+current directory: /Users/nurgun/Downloads/nurgunsapp28/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json
+/Users/nurgun/.rvm/rubies/ruby-3.0.0/bin/ruby -I /Users/nurgun/.rvm/rubies/ruby-3.0.0/lib/ruby/3.0.0 -r ./siteconf20230626-17196-30d2xj.rb extconf.rb
+creating Makefile
+
+current directory: /Users/nurgun/Downloads/nurgunsapp28/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" clean
+
+current directory: /Users/nurgun/Downloads/nurgunsapp28/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: /Users/nurgun/Downloads/nurgunsapp28/vendor/bundle/ruby/3.0.0/gems/json-2.6.3/ext/json
+make "DESTDIR=" install
