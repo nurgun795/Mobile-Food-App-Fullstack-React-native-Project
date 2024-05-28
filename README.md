@@ -1,1 +1,2 @@
-# foodapp
+# foodapps
+that Mobile App is fullstack on backend used by FireBase React Native, JS, Food Delivey App with Authentication Sign in, Sign up and food menu with scroll and side bars, order list, and delivery page. You can check it out. but I deleted there couple files in pods there was big files to push in github you can build new App with npm and put my code source there so this is almost full food delivery application end to end. 
